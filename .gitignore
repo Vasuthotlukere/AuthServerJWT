@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AccessManagement/v17
+/.vs
+/AccessManagement/.vs/AccessManagement
+/AccessManagement/AccessManagement/bin/Debug/net8.0
+/AccessManagement/AccessManagement/obj
